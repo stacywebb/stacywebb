@@ -1,4 +1,4 @@
-👋 Hi, I’m @stacywebb
+![Metrics](https://metrics.lecoq.io/stacywebb?template=classic&introduction=1&languages=1&isocalendar=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FNew_York)
 
 
 <!---
